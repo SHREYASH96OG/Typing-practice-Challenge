@@ -3,4 +3,6 @@
 <img align="center"  src = "Day1.png"><br><br>
 <h2 align="center">Day : 2</h2>
 <img align="center"  src = "Day2.png"><br><br>
+<h2 align="center">Day : 3</h2>
+<img align="center"  src = "Day3.png"><br><br>
 

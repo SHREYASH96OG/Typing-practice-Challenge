@@ -8,4 +8,4 @@
 <h2 align="center">Day : 4</h2>
 <img align="center"  src = "Day4.png"><br><br>
 <h2 align="center">Day : 5</h2>
-<img align="center"  src = "Day4.png"><br><br>
+<img align="center"  src = "Day6.png"><br><br>
